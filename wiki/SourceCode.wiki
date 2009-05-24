@@ -1,4 +1,4 @@
-#summary Source Code
+#summary Information on accessing or obtaining Scion's source code.
 
 = Source Code =
 
