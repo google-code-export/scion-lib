@@ -1,0 +1,14 @@
+#summary Source Code
+
+= Source Code =
+
+Scion uses [http://git-scm.com/ Git] to manage its source code.
+
+The main repository is hosted on [http://github.com GitHub].
+
+  * [http://github.com/nominolo/scion Browse Scion's source code]
+  
+  * Get a local copy of Scion via
+    {{{
+    git clone git://github.com/nominolo/scion
+    }}}
