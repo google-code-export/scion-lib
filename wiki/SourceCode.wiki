@@ -6,7 +6,7 @@ Scion uses [http://git-scm.com/ Git] to manage its source code.
 
 The main repository is hosted on [http://github.com GitHub].
 
-  * [http://github.com/nominolo/scion Browse Scion's source code]
+  * [http://github.com/nominolo/scion/tree Browse Scion's source code]
   
   * Get a local copy of Scion via
     {{{
